@@ -1,0 +1,1 @@
+This is Seth Allen's first git project!
